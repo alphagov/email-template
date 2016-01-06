@@ -2,8 +2,10 @@
 
 Two candidate HTML templates for use by UK Government services.
 
-V1 based on previous work in GDS, HMRC and HO on emails.
-V2 based on Fog Creek's [minimal responsive email template](https://gist.github.com/tinabeans/6996367).
+V1 based on previous work in GDS, HMRC and HO on emails. [example](http://alphagov.github.io/email-template/email_template_1.html)
+
+V2 based on Fog Creek's [minimal responsive email template](https://gist.github.com/tinabeans/6996367). [example](http://alphagov.github.io/email-template/email_template_2.html)
+
 
 Changes implemented:
 
